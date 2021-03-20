@@ -29,7 +29,7 @@ html5lib==1.0.1
 idna==2.9
 isc==2.0
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 lensfun==0.3.95
 LibAppArmor==2.13.4
 louis==3.13.0
