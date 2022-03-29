@@ -39,7 +39,7 @@ msgpack==1.0.0
 mutagen==1.44.0
 ordered-set==3.1.1
 packaging==20.3
-paramiko==2.7.1
+paramiko==2.10.1
 path-and-address==2.0.1
 pep517==0.8.2
 ply==3.11
